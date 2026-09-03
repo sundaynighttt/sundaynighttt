@@ -1,9 +1,9 @@
 # 조영연
 
-**Product designer · Planner · AI-native service maker**
+Product designer · Planner · AI-native service maker
 
-디자이너와 기획자로 시작해, 지금은 AI를 실제 제품과 운영에 붙이는 일을 합니다.
-복잡한 판단 문제를 제품, 자동화, 검증 가능한 실행 구조로 바꾸는 데 관심이 있습니다.
+- 디자이너와 기획자로 시작해, 지금은 AI를 실제 제품과 운영에 붙이는 일을 합니다.
+- 복잡한 판단 문제를 제품, 자동화, 검증 가능한 실행 구조로 바꾸는 데 관심이 있습니다.
 
 ## What I build
 

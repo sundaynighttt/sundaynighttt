@@ -1,40 +1,26 @@
-# 조영연
+# 조영연 · Youngyoun Cho
 
-Product designer · Planner · AI-native service maker
+프로덕트 디자이너 · 기획자
 
-- 디자이너와 기획자로 시작해, 지금은 AI를 실제 제품과 운영에 붙이는 일을 합니다.
-- 복잡한 판단 문제를 제품, 자동화, 검증 가능한 실행 구조로 바꾸는 데 관심이 있습니다.
+제품의 문제를 정의하고 사용 흐름과 화면을 설계합니다. 개인 프로젝트에서는 기획과 디자인부터 구현, 배포까지 직접 합니다.
 
-## What I build
+[포트폴리오](https://57loop.com/) · [주말 프로젝트 전체 보기](https://github.com/sundaynighttt/weekend-projects#readme)
 
-- AI가 한 일을 사람이 이해하고 선택하고 검증할 수 있는 워크플로우
-- 개인의 맥락과 데이터를 지키는 local-first 모바일·데스크톱 제품
-- 복잡한 데이터를 실제 판단과 다음 행동으로 연결하는 도구
-- 반복 작업을 줄이되 중요한 결정은 사람에게 남기는 자동화
+## 대표 작업
 
-## How I work
+| 작업 | 풀었던 문제와 맡은 일 |
+| --- | --- |
+| [Paiptree 디자인 시스템](https://57loop.com/work/paiptree-ds) | 한 사이트에 섞여 있던 팀 소개, 구성원 업무, 관리자 검토를 방문 목적에 따라 나눴습니다. 기획, 정보 구조, 화면 설계와 운영 반영 확인을 맡았습니다. |
+| [톡메모](https://57loop.com/work/tokmemo) | 메모를 쓴 뒤 AI의 답변이 기록을 덮지 않도록, 생각을 이어주는 짧은 반응을 설계했습니다. 제품 기획, 사용 경험, 화면 문구와 AI 반응 설계를 맡았습니다. |
 
-- 주장보다 실제 결과와 검증 근거를 남깁니다.
-- 작게 만들고 빠르게 확인합니다.
-- AI의 제안과 실행을 사람이 판단할 수 있는 형태로 바꿉니다.
-- 설명에 머무르지 않고 화면, 코드, 데이터, 테스트로 꺼냅니다.
+## 출시한 개인 제품
 
-## Working in public
-
-실제 제품 저장소 대부분은 사업 로직, 운영 맥락, 데이터 경계를 포함해 비공개로 관리합니다.
-
-이 프로필에는 다음처럼 다른 사람도 안전하게 이해하고 실행할 수 있는 결과물을 공개합니다.
-
-- 재사용 가능한 작은 AI 운영 도구
-- 제품에서 분리한 기술 실험과 예제
-- 실패와 검증 기준이 함께 남는 build note
+- [Monifren](https://57loop.com/work/monifren) · Mac과 Windows에서 화면 곁에 머무는 캐릭터 앱. 제품 기획과 캐릭터가 포인터에 반응하는 방식을 설계했습니다.
+- [달디 Dal:D](https://apps.apple.com/kr/app/id6778324579) · 음력 생일과 기념일을 챙길 수 있는 iPhone 앱입니다.
 
 ## 선데이나잇의 주말 프로젝트
 
 일하거나 생활하면서 직접 쓰고 싶었던 것을 매주 하나씩 골라, 주말에 혼자 기획하고 디자인하고 구현합니다.
 
-[최신작 · 자리기록](https://github.com/sundaynighttt/desk-trace#readme) · [전체 작품 보기](https://github.com/sundaynighttt/weekend-projects#readme)
-
----
-
-> 빠른 성공보다 빠른 검증을 선택합니다.
+- [자리기록](https://github.com/sundaynighttt/desk-trace#readme) · 자리를 비운 동안의 움직임과 첫 입력을 내 Mac에 남기고 타임라인에서 보는 앱.
+- [CodexTime](https://github.com/sundaynighttt/codextime#readme) · 여러 AI 서비스의 남은 사용량과 초기화 시간을 한곳에서 보는 앱.

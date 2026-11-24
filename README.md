@@ -29,7 +29,11 @@ Product designer · Planner · AI-native service maker
 - 제품에서 분리한 기술 실험과 예제
 - 실패와 검증 기준이 함께 남는 build note
 
-첫 공개 도구는 AI 작업을 `goal → scope → actual result → evidence → residual risk`로 정리하는 작은 검증 도구로 준비하고 있습니다.
+## 선데이나잇의 주말 프로젝트
+
+일하거나 생활하면서 직접 쓰고 싶었던 것을 매주 하나씩 골라, 주말에 혼자 기획하고 디자인하고 구현합니다.
+
+[최신작 · 자리기록](https://github.com/sundaynighttt/desk-trace#readme) · [전체 작품 보기](https://github.com/sundaynighttt/weekend-projects#readme)
 
 ---
 
